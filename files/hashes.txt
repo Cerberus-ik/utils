@@ -1,0 +1,32 @@
+
+
+Algorithm : SHA1
+Hash      : 5653C1D6AB27F7880F00FBF9B56B2CC7EDCF8391
+Path      : C:\Users\Philipp\Documents\utils\files\hash.bat
+
+
+
+
+
+Algorithm : SHA1
+Hash      : 91B7B0B1E27BFBF7BC646946F35FA972C47C2D32
+Path      : C:\Users\Philipp\Documents\utils\files\test1.txt
+
+
+
+
+
+Algorithm : SHA1
+Hash      : A6E925157DF66479DF07C570FD49184E1F851B38
+Path      : C:\Users\Philipp\Documents\utils\files\test2.txt
+
+
+
+
+
+Algorithm : SHA1
+Hash      : 3FCC999AE349DE0130DB9539C2E54B4D55E100D7
+Path      : C:\Users\Philipp\Documents\utils\files\test\test3.txt
+
+
+
