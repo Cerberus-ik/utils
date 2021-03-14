@@ -1,7 +1,7 @@
 # Generate ssh key on Ubuntu
 
 ```
-ssh –keygen –t rsa 4096
+ssh-keygen -t rsa -b 4096
 ```
 
 ```
